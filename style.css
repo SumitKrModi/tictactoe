@@ -60,7 +60,7 @@ body{
 }
 #msg{
     color : rgb(25, 177, 25);
-    font-size: 2.5rem;
+    font-size: 10vmin;
 }
 .hide{
     display: none;
